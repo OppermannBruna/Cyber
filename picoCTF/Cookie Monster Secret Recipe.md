@@ -19,6 +19,7 @@ Enunciado do desafio:
 
 >*Cookie Monster has hidden his top-secret cookie recipe somewhere on his website. As an aspiring cookie detective, your mission is to uncover this delectable secret. Can you outsmart Cookie Monster and find the hidden recipe?
 Additional details will be available after launching your challenge instance.*
+
 Dicas:
 
 >Sometimes, the most important information is hidden in plain sight. Have you checked all parts of the webpage?
@@ -27,21 +28,6 @@ Dicas:
 
 >Web browsers often have tools that can help you inspect various aspects of a webpage, including things you can't see directly.
 
-**Interpretando as Dicas**
-
-As dicas deixam claro que a chave está nos **cookies**. 
-Como o enunciado reforça diversas vezes esse termo, é razoável concluir que a solução envolve esses arquivos de texto que os sites utilizam para registrar informações da navegação do usuário.
-
-**Solução**
-
-Somos redirecionados para a seguinte página quando começamos:
-Dicas:
-
->Sometimes, the most important information is hidden in plain sight. Have you checked all parts of the webpage?
-
->Cookies aren't just for eating - they're also used in web technologies!
-
->Web browsers often have tools that can help you inspect various aspects of a webpage, including things you can't see directly.
 
 **Interpretando as Dicas**
 
@@ -53,6 +39,7 @@ Como o enunciado reforça diversas vezes esse termo, é razoável concluir que a
 Somos redirecionados para a seguinte página quando começamos:
 
 <img width="710" height="376" alt="Captura de tela 2025-09-09 110856" src="https://github.com/user-attachments/assets/ea1846f7-d63f-48b7-8f63-56b373a0ca2d" />
+
 
 Fiz o login usando a palavra *teste* como usuário e senha.
 
